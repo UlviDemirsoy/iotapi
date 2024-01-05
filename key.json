@@ -1,14 +1,14 @@
 {
     "type": "service_account",
-    "project_id": "iotdb-a74a3",
-    "private_key_id": "4addc45cc6f5401a68310a52d6fb4e17cb27bcdb",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCl/FJ4OD4awlk\nYAFXLwWdJP2UKAqOFLWMi/qjPLCMIOnTnkqOfNdKLS/tdZFomq/8+nJO7Oy++Jpq\n2TBKCYf1m+VMs9/aanpDN6QK+Y6CrY592dueO4VeC74AEIVwV6eqSz6xprUlZh/E\nRXro/lX6pgBLlahvC5ba6LfKsWavzXosLLARFtwqvIXQjl61g64K/P6PE7fCp64N\nV1FL5fgim7G9CT8hZONE9rhMV309k7hCW+p7a/uaY5xil0M2WNY3nRn+48XLAwB1\nXix9I3cY1GD8uIOR9kBXlsgBYw50Yj7VJgm92LQaeYpHaeXuXKvzgrd6Qg8XT/sp\nJu7QcEGvAgMBAAECggEABYTIfoqEgpCtN/Iqi9VVDzFJvG7SaUbvz4+h7U1Jn0wE\nmNSUTzCGdVcNEMAOhvOQH7HwFcXvxMYR0scxeTvKkJztM3zZQI5o99nqardDeG/B\nbyQUiU9gfvESHCb1ZZQ1OJbtpK5a9sAhMxsFNOi56KPWYD1SwNqqyY0FlNNk9Qpe\n8JfEIY2X1f7dUSUSj8poYqwdgSocdiR+CZ56B4fwHa38wXqz2zjo9o5KFf6SHoUu\nvN5PwM8JnjX7vXx5babuD5RRfeae/t1CmqDq5bZn9iGNhc06YrWH+pBX7PQBcdB1\nOTEamIws71rbK+jScusRu3j/6RFt0VedP82MXwrd0QKBgQDq+7EE8KDrgsOaxf6j\njHW25wnvaEF7O8T6PUfqL8+COQVTID/RdfTVtk32tohNLHULvymTIalsSKwP9lEl\nRk71f/40DK+geArMpzGwCeI36Rg8MtodjZByh53lgXRPm4Y+ii6IhnczYLvACu3t\nD7lCzfXAFg66Eo6dBCk8HqXLMQKBgQDT/3d8uJTunVf7RRKvQ9yzXjmswZCl0q27\nZVOuSlkzaBxhpt2aDJw3tFh6ZqxInyztFclVTNd4ET4lWuA6MVlw+JkZU/nQtLjV\npp4jLM6mWGbWLg9QlJTjZEO1c5P4BxCTAIDQqOSJp+Mw1MGnW1ZJHN+dWn5w+Bak\nG3NrbBPi3wKBgBx+dsG9mBXW3ndHKRCV+LQ8IeVJBB+4aLNbePv53jTRS0cAMxzo\nK886cwvGqJKLIIpTHOx9eXjq+wpYeRCHDQ4R/jY7j5Rq2gxk/c519FuJRWoPVIme\n3/QzY78vynXYyxeMVAY0IAI36axo5t8HOBTUuscXJaQEmgyKM6HZqYsRAoGBAKhK\nH1dhy9CUFTjBf3CkZXn6LbynOCV61jFx4Xj1SlRVrFoUtcvJgOVzg90+zjskKOzY\nI6hURKPqxDOxLVjkvgTBQ//oOuLj4+quxtBTjIRentwdWkj0ejD88gcEBg2Zxh18\nA8YgnLNuFBs6ebRZ/GgzxIvMP518Q7TombpH5I1vAoGBAJNCA+1bMdScpQH99Y3I\nlcW2K4XFxjftfZIeX4b9xOJGEgEqINQEeSTxDHYzzUTPPfxNSzerA/dMt5M99Dkf\n1EPZNHg1btTWoSihq0WgXbKS9DVd5qKF6iiGMDvEHiR0RAv0tf0Ji0/1U5K95PhA\nei2HnmOevH5VcI6SAwK/8Lnb\n-----END PRIVATE KEY-----\n",
-    "client_email": "firebase-adminsdk-a49hv@iotdb-a74a3.iam.gserviceaccount.com",
-    "client_id": "101909947843796002311",
+    "project_id": "yourid",
+    "private_key_id": "*************",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nn\nR YourKey /8Lnb\n-----END PRIVATE KEY-----\n",
+    "client_email": "YOUR ACC",
+    "client_id": "YOUR ID",
     "auth_uri": "https://accounts.google.com/o/oauth2/auth",
     "token_uri": "https://oauth2.googleapis.com/token",
     "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-a49hv%40iotdb-a74a3.iam.gserviceaccount.com",
+    "client_x509_cert_url": "*****",
     "universe_domain": "googleapis.com"
   }
   
